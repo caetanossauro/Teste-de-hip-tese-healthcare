@@ -17,8 +17,12 @@ Este projeto de análise de dados explora o impacto da idade no tempo de interna
 
 * Estes achados são mais do que apenas números; eles possuem **implicações importantes para a gestão de recursos em saúde, o planejamento de leitos e a otimização do atendimento ao paciente**, especialmente em populações que estão envelhecendo.
 
+**Para uma análise mais aprofundada da metodologia, o impacto social desses resultados e os detalhes técnicos do projeto, convido você a ler o artigo completo que escrevi no LinkedIn:**
+
+👉 [Link para o seu Artigo do LinkedIn](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-em-sa%C3%BAde-explorando-o-impacto-da-idade-oliveira-lejmf/?trackingId=YOxRzI%2FA52KRBslaJBrCvg%3D%3D)
+
 ## Como Executar o Projeto
-Acesse: https://www.kaggle.com/code/caetanossauro/teste-de-hipostes-healthcare
+Acesse: [Projeto](https://www.kaggle.com/code/caetanossauro/teste-de-hipostes-healthcare)
 
 
 ## Metodologia e Análise
