@@ -9,7 +9,7 @@ Este projeto de análise de dados explora o impacto da idade no tempo de interna
 * Investigar a relação entre a faixa etária e a duração da internação hospitalar.
 * Aplicar um teste de hipóteses não paramétrico (Mann-Whitney U) para validar estatisticamente a relação observada.
 
-##Insights chave
+## Insights chave
 
 * Este projeto nos permitiu investigar se a idade do paciente está relacionada ao tempo de internação hospitalar no 'Phillips LLC'. Nossas análises, baseadas no teste de Mann-Whitney U, revelaram o seguinte:
 
