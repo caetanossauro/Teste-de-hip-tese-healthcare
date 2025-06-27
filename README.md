@@ -54,7 +54,7 @@ Com base no p-valor 0.60 e no nível de significância de 0.05:
 
 ## Autor
 
-* **Cleidson Santos Oliveira** - [Link para seu LinkedIn](https://www.linkedin.com/in/cleidson-oliveira-7b7248215/) - [Link para seu GitHub](https://github.com/caetanossauro).
+* **Cleidson Santos Oliveira** - [LinkedIn](https://www.linkedin.com/in/cleidson-oliveira-7b7248215/) - [GitHub](https://github.com/caetanossauro).
 
 ## Licença
 
