@@ -9,6 +9,14 @@ Este projeto de análise de dados explora o impacto da idade no tempo de interna
 * Investigar a relação entre a faixa etária e a duração da internação hospitalar.
 * Aplicar um teste de hipóteses não paramétrico (Mann-Whitney U) para validar estatisticamente a relação observada.
 
+##Insights chave
+
+* Este projeto nos permitiu investigar se a idade do paciente está relacionada ao tempo de internação hospitalar no 'Phillips LLC'. Nossas análises, baseadas no teste de Mann-Whitney U, revelaram o seguinte:
+
+* Identifiquei **evidências estatisticamente significativas** de que pacientes com 60 anos ou mais tendem a ter um tempo de internação *maior* em comparação com pacientes abaixo de 60 anos."
+
+* Estes achados são mais do que apenas números; eles possuem **implicações importantes para a gestão de recursos em saúde, o planejamento de leitos e a otimização do atendimento ao paciente**, especialmente em populações que estão envelhecendo.
+
 ## Como Executar o Projeto
 Acesse: https://www.kaggle.com/code/caetanossauro/teste-de-hipostes-healthcare
 
