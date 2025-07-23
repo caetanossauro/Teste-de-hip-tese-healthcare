@@ -1,8 +1,19 @@
+
 # Análise de Dados de Saúde: Impacto da Idade no Tempo de Internação Hospitalar
 
 ## Visão Geral do Projeto
 
 Este projeto de análise de dados explora o impacto da idade no tempo de internação de pacientes em um hospital específico ("Phillips LLC"). Utilizando um conjunto de dados de saúde, o objetivo é aplicar técnicas de pré-processamento de dados e realizar um teste de hipóteses para determinar se há uma diferença significativa no tempo de internação entre pacientes mais jovens e mais velhos.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Explorando o Impacto da Idade no Tempo de Internação Hospitalar**
+| :label: Tecnologias | python, scipy, numpy, pandas
+| :rocket: URL         | https://www.linkedin.com/pulse/an%25C3%25A1lise-de-dados-em-sa%25C3%25BAde-explorando-o-impacto-da-idade-oliveira-lejmf/?trackingId=iJIe8w%2FIQTKDr50Nvspphg%3D%3D
+| :fire: Notebook     | https://www.kaggle.com/code/caetanossauro/teste-de-hipostes-healthcare
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Objetivo Principal
 
