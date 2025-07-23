@@ -13,7 +13,7 @@ Este projeto de análise de dados explora o impacto da idade no tempo de interna
 | :fire: Notebook     | https://www.kaggle.com/code/caetanossauro/teste-de-hipostes-healthcare
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://media.licdn.com/dms/image/v2/D4D12AQEM1X63KNyAxQ/article-cover_image-shrink_720_1280/B4DZezyfeRHkAM-/0/1751068053786?e=1758758400&v=beta&t=NAJnd54EVNzQYnpMvmB0ztwllEBFEik2dApyWcFRDYg#vitrinedev)
 
 ## Objetivo Principal
 
